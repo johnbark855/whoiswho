@@ -1,7 +1,7 @@
 {
-  "name": "reactbase",
+  "name": "whoiswho",
   "version": "0.1.0",
-  "homepage": "http://JCyberAI.github.io/reactbase",
+  "homepage": "http://JCyberAI.github.io/whoiswho",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.10",
